@@ -1,0 +1,6 @@
+numpy<2
+tensorflow
+ccxt
+matplotlib
+scikit-learn
+pandas
