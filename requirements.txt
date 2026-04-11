@@ -4,3 +4,4 @@ ccxt
 matplotlib
 scikit-learn
 pandas
+seaborn
